@@ -157,6 +157,10 @@ For the purpose of this section, an "Integration"-focused library does one of th
 - [QtXlsx](http://qtxlsx.debao.me) [:octocat:](https://github.com/dbzhang800/QtXlsxWriter) - Read and write spreadsheets in Microsoft Excel format.
 - [Qwt](http://qwt.sourceforge.net) [:package:](https://sourceforge.net/projects/qwt) - Qt widgets designed for scientific and technical applications.
 - [verdigris](https://github.com/woboq/verdigris) [:octocat:](https://github.com/woboq/verdigris) - Experimental library to write Qt applications *without* using the `moc`.
+- [qt-ribbon](https://github.com/fizzyade/qt-ribbon) - Ribbon style control for Qt applications with a designer plugin.
+- [FontAwesomeForQt](https://github.com/fizzyade/FontAwesomeForQt) - Use FontAwesome glyphs easily from rich text.
+- [componentsystem](https://github.com/fizzyade/componentsystem) - An extensible "component" (aka plugin) system that is layered above the Qt plugin functions.
+- [dockingpanes](https://github.com/KestrelRadarSensors/dockingpanes) - Use clean/modern looking docking windows inside a Qt application.
 
 ## Software Repositories
 
@@ -229,6 +233,7 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Wireshark](https://www.wireshark.org) [:package:](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree) - The most popular packet-sniffer out there.  You *are* going to use this for good and not evil, right?
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica) - Programming language, symbolic calculator, and an engineer's best friend.
 - [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - Sega Saturn emulator.
+- [Pingnoo](https://github.com/fizzyade/pingnoo) - A cross-platform ping/traceroute analyzer.
 
 There's also an official showroom [here](https://showroom.qt.io), which lets developers submit their own Qt-powered applications for display.
 
